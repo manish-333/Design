@@ -15,6 +15,7 @@ const Navbar = () => {
         <li>Servise</li>
         <li>Servise</li>
         <li>Servise</li>
+        <li>Servise</li>
 
        </ul>
        <div className="icone">
